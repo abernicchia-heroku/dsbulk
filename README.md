@@ -1,5 +1,5 @@
 # dsbulk
-Run DataStax Bulk Loader on Heroku - it can be used to inspect Cassandra clusters
+Run DataStax Bulk Loader v1.11 on Heroku - it can be used to inspect Cassandra clusters
 
 ## Deploying to Heroku
 
