@@ -10,3 +10,4 @@ DataStax Bulk Loader on Heroku
 For more information about using DataStax Bulk Loader, see these articles:
 
 - [DataStax Bulk Loader](https://downloads.datastax.com/#bulk-loader)
+- [DataStax Bulk GitHub repo](https://github.com/datastax/dsbulk)
