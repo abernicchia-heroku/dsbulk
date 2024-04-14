@@ -1,0 +1,22 @@
+{
+  "name": "DataStax Bulk Loader",
+  "description": "DataStax Bulk Loader on Heroku - it can load, unload and count records from Cassandra",
+  "keywords": [
+    "DataStax",
+    "Cassandra",
+    "dsbulk",
+    "heroku"
+  ],
+  "repository": "https://github.com/datastax/dsbulk/",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "standard-1x"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
