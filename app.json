@@ -8,12 +8,6 @@
     "heroku"
   ],
   "repository": "https://github.com/abernicchia-heroku/dsbulk",
-  "formation": {
-    "console": {
-      "quantity": 1,
-      "size": "standard-1x"
-    }
-  },
   "buildpacks": [
     {
       "url": "https://github.com/peterkeen/heroku-buildpack-vendorbinaries"
