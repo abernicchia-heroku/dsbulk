@@ -9,7 +9,7 @@
   ],
   "repository": "https://github.com/datastax/dsbulk/",
   "formation": {
-    "web": {
+    "console": {
       "quantity": 1,
       "size": "standard-1x"
     }
